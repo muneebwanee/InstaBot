@@ -409,7 +409,7 @@ username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o 
 
 iamsrk="628480450"
 aliaabhatt="259925762"
-sahilkhan="371137794"
+muneebwanee="371137794"
 karantacker="43034052"
 akshaykumar="907025384"
 darshanravaldz="478675749"
