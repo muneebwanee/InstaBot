@@ -49,8 +49,9 @@ $ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git &
 
  •[+] ***By muneebwanee***
 
-
-****[+] 'If You Copy Then Give Me The Credits’****
+<p align="center">
+****[+] 'If You Copy Then Give Me The Credits’
+</p>
 
 <p align="center">
 <a href="https://twitter.com/muneebwanee">
