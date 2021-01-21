@@ -1,5 +1,8 @@
 # <p align="center">INSTABOT<p align="center">
 
+### What is InstaBot?
+* InstaRat is an AI used to get 100% real Indian followers. It helps you to increase Instagram followers i.e, 30+ Followers an hour for free. InstaBot is powered by TheDeepNet (www.deepnet.ga) coded by @muneebwanee. All you need is stable internet connection & updated os/termux.
+
 ### Installation
 
 * termux update required
