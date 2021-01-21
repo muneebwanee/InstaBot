@@ -37,7 +37,10 @@ $ bash instabot
 $ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git && git clone https://github.com/muneebwanee/InstaBot && cd InstaBot && chmod +x instabot && termux-wake-lock && bash instabot
 ```
 <details>
-  <summary>Features</summary><br> •[+] **AntiBan**
+ 
+  <summary>Features</summary><br>
+  
+  •[+] **AntiBan**
 
  •[+] **Based on 'Following celebs for 60sec’**
 
