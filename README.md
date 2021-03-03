@@ -1,7 +1,14 @@
-
+<p align="center">
+<a href="https://www.deepnet.ga"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23f5690c&colorB=%23035c00&style=for-the-badge"></a>
+</p>
 <p align="center">
 <a href="https://www.deepnet.ga"><img alt="InstaBot" src="https://1.bp.blogspot.com/-XAoIEwcvLw4/YDsqF2mRezI/AAAAAAAAAm4/Xl34jO0dh-8eLZsWfCuG6cs5BkTrwpO5gCLcBGAsYHQ/s1364/InstaBot.jpg"></a>
-</p><p align="center">
+</p>
+<p align="center">
+<a href="https://github.com/muneebwanee"><img title="Author" src="https://img.shields.io/badge/Author-muneeb--wanee-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://www.deepnet.ga"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
+<p align="center">
 
 ### What is InstaBot?
 * InstaBot is an AI used to get 100% real Indian followers. It helps you to increase Instagram followers i.e, 30+ Followers an hour for free. InstaBot is powered by TheDeepNet (www.deepnet.ga) coded by @muneebwanee. All you need is stable internet connection & updated os/termux.
