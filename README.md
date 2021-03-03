@@ -5,7 +5,7 @@
 <a href="https://www.deepnet.ga"><img alt="InstaBot" src="https://1.bp.blogspot.com/-XAoIEwcvLw4/YDsqF2mRezI/AAAAAAAAAm4/Xl34jO0dh-8eLZsWfCuG6cs5BkTrwpO5gCLcBGAsYHQ/s1364/InstaBot.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/muneebwanee"><img title="Author" src="https://img.shields.io/badge/Author-muneeb--wanee-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://muneb.rf.gd"><img title="Author" src="https://img.shields.io/badge/Author-muneeb--wanee-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://www.deepnet.ga"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
