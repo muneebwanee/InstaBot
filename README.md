@@ -22,33 +22,33 @@
 * termux update required
 
 ```
-$ apt update -y && apt upgrade -y
+ apt update -y && apt upgrade -y
 ```
 * `Commands` for termux
 ```
-* pkg up -y
+ pkg up -y
 
-* pkg install openssl-tool
+ pkg install openssl-tool
 
-* pkg install curl
+ pkg install curl
 
-* pkg install git
+ pkg install git
 
-* git clone https://github.com/muneebwanee/InstaBot.git
+ git clone https://github.com/muneebwanee/InstaBot.git
 
-* cd InstaBot
+ cd InstaBot
 
-* chmod +x instabot
+ chmod +x instabot
 
-* termux-wake-lock
+ termux-wake-lock
 
-* bash instabot
+ bash instabot
 ```
 
 * One Click Installation
 
 ```
-* pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git && git clone https://github.com/muneebwanee/InstaBot && cd InstaBot && chmod +x instabot && termux-wake-lock && bash instabot
+ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git && git clone https://github.com/muneebwanee/InstaBot && cd InstaBot && chmod +x instabot && termux-wake-lock && bash instabot
 ```
 <details>
  
